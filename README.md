@@ -1,2 +1,2 @@
-# Tower_of_hanoi
-code for tor of Hanoi
+Recursive code for tower of Hanoi
+hope it helps
